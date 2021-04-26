@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**Seratooo/seratooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Paulo Serato
+## Sobre mim:
+Olá eu sou o Paulo Serato, 
+Simplesmente um jovem com um 
+longo caminho na estrada da aprendizagem.
 
-Here are some ideas to get you started:
+Estudo desenvolvimento web e minhas principais 
+Stacks são React Js, React Native, Typecript e 
+NodeJs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência de trabalho com linguagens
+Como Java, Csharp, C e Php.
+
+### Estou Aberto a desafios!
+Não exite em contactar-me se for o caso!
+Conte comigo...
+
+--------------------------------------------------
+
+Hi, I'm Paulo Serato,
+Simply a young man with a
+long road on the road of learning.
+
+I study web development and my main
+Stacks are React Js, React Native, Typecript and
+NodeJs.
+
+I have experience working with languages
+Like Java, Csharp, C and Php.
+
+### I am open to challenges!
+Do not hesitate to contact me if applicable!
+Count on me ...
