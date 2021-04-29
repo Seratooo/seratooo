@@ -2,9 +2,9 @@
 
 # Paulo Serato
 ## Sobre mim:
-Olá eu sou o Paulo Serato, 
-Simplesmente um jovem com um 
-longo caminho na estrada da aprendizagem.
+Nada melhor do quer ser útil, seja resolvendo um
+problema ou fazendo uma contribuíção! Não sei
+muito, mas estou disposto a fazer muito!...
 
 Estudo desenvolvimento web e minhas principais 
 Stacks são React Js, React Native, Typecript e 
