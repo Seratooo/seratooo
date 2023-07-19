@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Abubacar Correia</h1>
 <h3 align="left">I'm a developer with more than 4 years of experience in developing projects of different types and complexities, with solid knowledge in languages like python and javascript and popular frameworks like React, Next and Angular.</h3>
+<hr/>
+<br/>
 
 - 🔭 I’m currently developing a [SEASONAL SALES FORECAST SYSTEM TO SUPPORT BUSINESS DECISIONS](https://abc-company.onrender.com/login)
 
