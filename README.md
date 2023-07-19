@@ -13,12 +13,12 @@
 
 - 📫 How to reach me **abubacar.paulo.correia@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WwK__MjF4HhuW0N53RvxnYXjgvEhH3mV/view?usp=sharing](https://drive.google.com/file/d/1WwK__MjF4HhuW0N53RvxnYXjgvEhH3mV/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1WwK__MjF4HhuW0N53RvxnYXjgvEhH3mV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/seratooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="seratooo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/abubacar-correia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abubacar-correia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abubacar-correia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abubacar-correia" height="30" width="40" /></a>
 <a href="https://kaggle.com/pauloserato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="paulo serato" height="30" width="40" /></a>
 <a href="https://instagram.com/abubacar_correia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abubacar_correia" height="30" width="40" /></a>
 </p>
