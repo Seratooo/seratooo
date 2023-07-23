@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abubacar.paulo.correia@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1WwK__MjF4HhuW0N53RvxnYXjgvEhH3mV/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1ee2qQVgRkLYiEIfx47TyCq0_09e2_7px/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
